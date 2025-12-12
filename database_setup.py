@@ -18,7 +18,7 @@ health_conditions = [
 def setup_database():
     # Connect to MySQL
     conn = mysql.connector.connect(
-        user='root', password='chandan7', host='localhost'
+        user='root', password='PASSWORD', host='localhost'
     )
     cursor = conn.cursor()
 
