@@ -5,7 +5,7 @@ import hashlib
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "chandan7",
+    "password": "PASSWORD",
     "database": "secure_database"
 }
 
